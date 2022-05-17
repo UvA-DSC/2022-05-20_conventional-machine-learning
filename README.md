@@ -15,6 +15,18 @@ __Note:__ Machine Learning is often abbreviated in ML.
 2) Learn about automated Machine Learning: choosing the best ML model 
 3)  
 
+
+# Datasets used
+
+## Breast Cancer Wisconsin Data Set (Classification problem)
+Taken from the UCI Machine Learning Repository [Link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+## Student grades (Regression problem)
+
+Taken from the UCI Machine Learning Repository [Link](https://archive-beta.ics.uci.edu/ml/datasets/student+performance)
+
+# References
+
 ## Credits
 
 __Authors:__  
@@ -26,3 +38,12 @@ __Authors:__
 
 1) Machine Learning at the Vrije University of Amsterdam: [https://mlvu.github.io/](https://mlvu.github.io/)  
 2) Genetic programming in Python: https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6
+
+## TPOT Python package
+
+1) [TPOT home page](https://epistasislab.github.io/tpot/)  
+2) [Data Camp tutorial on TPOT](https://www.datacamp.com/tutorial/tpot-machine-learning-python#!)
+
+## MJLAR 
+
+1) [MJLAR GitHub repository](https://github.com/mljar/mljar-supervised)
