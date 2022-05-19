@@ -2,7 +2,7 @@
 
 Workshop on Machine Learning organised at the Data Science Center on 20 May 2022. 
 
-# Conventional Machine Learning
+# Introduction
 
 In the past decade, Deep Learning, originally a subfield of Machine Learning, has gained considerable influence and momentum. 
 In order to distinguish "traditional" Machine Learning such as Random Forest or Regularised Regression from Deep Learning models, we decided to coin this workshop _"conventional Machine Learning"_.
@@ -22,7 +22,7 @@ To perform autoML, we will use the [TPOT Python package](https://epistasislab.gi
 ## Installation
 
 __Option 1:__ To install TPOT using conda/mamba:  
-`conda install -c conda-forge mamba && conda create --name tpot -c conda-forge tpot=0.11.6`  
+`conda install -c conda-forge mamba && conda create --name tpot -c conda-forge jupyterlab tpot=0.11.6`  
 
 A faster alternative to conda is called [mamba](https://github.com/mamba-org/mamba) and is used here. 
 
